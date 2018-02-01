@@ -7,5 +7,5 @@ if __name__ == '__main__':
 
     suite = loader.discover(start_dir)
 
-    runner = xmlrunner.XMLTestRunner(output='test-reports')
+    runner = xmlrunner.XMLTestRunner(output='/tmp/test-reports')
     runner.run(suite)

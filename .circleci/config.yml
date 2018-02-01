@@ -14,7 +14,7 @@ defaults: &defaults
         name: run tests
         command: |
           mkdir /tmp/test-results
-          pipenv run python -m unittest
+          pipenv run python tests.py
 
     - store_test_results:
         path: /tmp/test-results
