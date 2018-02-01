@@ -77,3 +77,10 @@ class TestClient(TestCase):
 
     def testGetCACert(self):
         self.assertTrue(os.path.isfile(self.client.getCACert()))
+
+if __name__ == '__main__':
+    unittest.main(
+        testRunner=xmlrunner.XMLTestRunner(output='test-results'),
+        # these make sure that some options that are not applicable
+        # remain hidden from the help menu.
+        failfast=False, buffer=False, catchbreak=False)
