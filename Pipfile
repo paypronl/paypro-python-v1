@@ -11,7 +11,3 @@ requests = "*"
 [dev-packages]
 
 unittest-xml-reporting = "*"
-
-[requires]
-
-python_version = "3.0"
