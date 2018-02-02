@@ -1,6 +1,7 @@
 ![PayPro](https://paypro.nl/images/logo-ie.png)
 # Python Client for PayPro API v1
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![PyPi Package]](https://img.shields.io/pypi/v/paypro.svg)
 [![circleci](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg)](https://circleci.com/gh/paypronl/paypro-python-v1)
 
 This library provides a Python client to connect with the PayPro API.
