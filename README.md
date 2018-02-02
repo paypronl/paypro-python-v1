@@ -13,7 +13,7 @@ This library provides a Python client to connect with the PayPro API.
 
 Installation is done through `pip` you can use this command:
 
-```
+```sh
 pip install paypro
 ```
 
@@ -23,7 +23,7 @@ If you wanna develop or run the source you can use the supplied `Pipfile` to ins
 
 Example of creating a payment:
 
-```
+```python
 from paypro import Client
 
 client = Client('YOUR_API_KEY')
