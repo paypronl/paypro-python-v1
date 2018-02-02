@@ -47,6 +47,4 @@ For guides and codes examples you can go to https://paypro.nl/developers/docs.
 If you want to contribute to this project you can fork the repository. Create a new branch, add your feature and create a pull request. We will look at your request and determine if we want to add it.
 
 ## License
-
-## License
 [MIT](https://github.com/paypronl/paypro-ruby-v1/blob/master/LICENSE)
