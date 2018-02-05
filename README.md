@@ -41,7 +41,11 @@ client.execute()
 
 ## Documentation
 
-For guides and codes examples you can go to https://paypro.nl/developers/docs.
+For guides and code examples you can go to https://paypro.nl/developers/docs.
+
+## Tests
+
+To run the test suite you can execute the `tests.py` file. This will run the whole suite and generates a JUnit XML file with all test results.
 
 ## Contributing
 
