@@ -18,7 +18,7 @@ Installation is done through `pip` you can use this command:
 pip install paypro
 ```
 
-If you wanna develop or run the source you can use the supplied `Pipfile` to install all packages. To run the tests you also need to install the dev packages.
+If you want to develop or run the source you can use the supplied `Pipfile` to install all packages. To run the tests you also need to install the dev packages.
 
 ## Getting Started
 
